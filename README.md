@@ -1,1 +1,1 @@
-# Bank Management System in Java Prigramming
+# Bank Management System in Java Programming
